@@ -47,4 +47,8 @@ class AppController extends Controller
         print_r(Configure::read('App'));
         exit;
     }
+    public function new123(){
+        echo "new function 123";
+        exit;
+    }
 }

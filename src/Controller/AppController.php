@@ -51,4 +51,5 @@ class AppController extends Controller
         echo "new function 123";
         exit;
     }
+    public 
 }
